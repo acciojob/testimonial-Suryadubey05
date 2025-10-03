@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+body{
+	padding:0;
+	margin:0;
+}
+#main{
+	padding:10px;
+	background-color:#f5f5f5;
+}
+#eg1{
+	padding-top:10px;
+	font-weight:700;
+	font-size:30px;
+}
+.eg2{
+	display:flex;
+	margin:20px 0px;
+	border:1px solid black;
+	height:50px;
+	width:100%;
+	background-color:white;
+}
+.eg2 p{
+	margin:10px;
+}
+.eg2 i{
+	padding:30px 50px;
+}
+
+
